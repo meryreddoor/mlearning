@@ -47,6 +47,10 @@ rom sklearn.ensemble import HistGradientBoostingClassifier
     3. GradientBoostingRegressor
     4. SupportVectorRegression (SVR)
 
+## Summary
+
+![Summary_Model_Prediction_img](url completa de la imagen)
+
 ## Built With
 
 * [Kaggle](hhttps://www.kaggle.com/c/diamonds-datamad0120) - The Dataset used
