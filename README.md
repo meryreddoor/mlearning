@@ -49,11 +49,11 @@ rom sklearn.ensemble import HistGradientBoostingClassifier
 
 ## Summary
 
-![Summary_Model_Prediction_img](url completa de la imagen)
+![Summary_Model_Prediction_img](https://github.com/meryreddoor/mlearning/blob/master/Summary.jpeg)
 
 ## Built With
 
-* [Kaggle](hhttps://www.kaggle.com/c/diamonds-datamad0120) - The Dataset used
+* [Kaggle](https://www.kaggle.com/c/diamonds-datamad0120) - The Dataset used
 
 ## Articles consulted
 
